@@ -1,7 +1,7 @@
 # hash2css
 A JQuery plugin to add css definitions from a hash table
 
-# Example
+### Example
 
 The following is creating the newcss definition of a 100x100 black div rotated 45 degrees
 
